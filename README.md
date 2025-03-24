@@ -12,6 +12,7 @@ View order history and status.
 Secure login and registration.
 
 Admin:
+
 Approve or reject orders.
 
 Manage inventory (add, update, delete products).
